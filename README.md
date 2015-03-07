@@ -1,4 +1,4 @@
-# kirby-lessphp
+# Kirby Lessphp
 
 Lessphp for KirbyCMS.
 
