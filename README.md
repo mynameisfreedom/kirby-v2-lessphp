@@ -8,7 +8,7 @@ This plugin will automatically process Less files.
 
 1. Copy the lessc.inc.php inside Kirby's plugin folder.
 2. Copy the less.php inside Kirby's snippet folder.
-3. Call the snippet with 	<?php snippet('less') ?>.
+3. Call the snippet with <?php snippet('less') ?> in your HTML head.
 4. Putt your style.less inside the ‘assets/less’ folder.
 
 If some of these folders doesn't exist create them first.
