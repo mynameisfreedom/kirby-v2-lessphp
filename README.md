@@ -7,3 +7,4 @@ This is a preprocessor for Less files. Built using the [lessphp library](https:/
 3. Call the snippet with <?php snippet('less') ?> in your HTML head.
 4. Create a folder ‘less’ inside Kirby’s assets folder.
 5. Create a file ‘style.less’ and place it inside ‘assets/less’.
+6. Make sure a folder ‘css’ exists inside Kirby’s assets folder.
