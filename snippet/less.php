@@ -3,8 +3,8 @@
 // Using 'realpath' seems to work best in different situations.
 $root = realpath(__DIR__ . "/../..");
 
-// Your main SCSS file.
-$sourceFile = $root . "/assets/scss/style.scss";
+// Your main Less file.
+$sourceFile = $root . "/assets/less/style.less";
 
 // Your final CSS file.
 $compiledFile = $root . "/assets/css/style.css";
