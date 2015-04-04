@@ -10,7 +10,7 @@ $sourceFile = $root . "/assets/less/style.less";
 $compiledFile = $root . "/assets/css/style.css";
 
 // Compile only when needed.
-if (filemtime($sourceFile) > filemtime($compiledFile)) {
+if ( !file_exists($compiledFile) or filemtime($sourceFile) > filemtime($compiledFile) ) {
 
 	// Set compression provided by library.
 	$options = array('compress'=>true);
