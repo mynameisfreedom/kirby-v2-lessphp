@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Less snippet
+ *
+ * @author    Bart van de Biezen <bart@bartvandebiezen.com>
+ * @link      https://github.com/bartvandebiezen/kirby-v2-lessphp
+ * @return    CSS and HTML
+ * @version   1.0
+ */
+
 // Using 'realpath' seems to work best in different situations.
 $root = realpath(__DIR__ . "/../..");
 
