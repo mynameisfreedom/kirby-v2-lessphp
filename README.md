@@ -1,4 +1,4 @@
-# Lessphp Plugin for Kirby 2
+# Lessphp Plugin for Kirby 3
 
 This is a preprocessor for Less files. Built using the [lessphp library](https://github.com/oyejorge/less.php) by Josh Schmidt and [lessphp plugin for Kirby 1](https://github.com/janstieler/kirby-lessphp) by Jan Stieler. This plugin will automatically process Less files when changed.
 
