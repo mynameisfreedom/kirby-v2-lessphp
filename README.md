@@ -13,4 +13,4 @@ This is a preprocessor for Less files. Built using the [lessphp library](https:/
 
 ## Compatibility
 
-This Kirby 2 plugin is compatible with Less 1.7.
+This Kirby 3 plugin is compatible with Less 1.7.
